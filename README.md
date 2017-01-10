@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome data visualizations research papers, books, blog posts, and other readings. If you are looking for more practical tools and libraries see [awesome-dataviz](https://github.com/fasouto/awesome-dataviz). At present this is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests.
+A curated list of awesome data visualizations research papers, books, blog posts, and other readings. If you are looking for more practical tools and libraries see [awesome-dataviz](https://github.com/fasouto/awesome-dataviz). At present this is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests. 
 
 
 ## Table of contents
@@ -26,6 +26,9 @@ A curated list of awesome data visualizations research papers, books, blog posts
 - [Nanocubes: Fast visualization of large spatiotemporal datasets](http://nanocubes.net/) - specialized database system for visualizing spatiotemporal datasets
 
 ## Color
+
+- [mpl colormaps: a better default colormap for matplotlib](https://bids.github.io/colormap/) - detailed account of designing a better colormap for the popular matplotlib library
+- [How we designed the new color palettes in Tableau 10](https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782) - overview of designing color palettes in tableau
 
 ## Data Management
 
