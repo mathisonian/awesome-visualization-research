@@ -5,7 +5,6 @@
 A curated list of awesome data visualizations research papers, books, blog posts, and other readings. If you are looking for more practical tools and libraries see [awesome-dataviz](https://github.com/fasouto/awesome-dataviz). At present this is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests.
 
 
-
 ## Table of contents
 
 - [Animation](#animation)
@@ -35,11 +34,16 @@ A curated list of awesome data visualizations research papers, books, blog posts
 
 ## Human Computer Interaction
 
+- [The Effects of Interactive Latency on Exploratory Visual Analysis](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf) - a look at how latency in a user interface can affect user behavior and impact what they learn about datasets
+
 ## Research Methods
+
+- [Process and Pitfalls in Writing Information Visualization Research Papers](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf) - an overview of different types of information visualization papers, and common problems that researchers face
 
 ## Systems, Toolkits, and Libraries
 
-
+- [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
+- [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammer, built on top of vega
 
 # Contributing
 
