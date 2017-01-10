@@ -19,6 +19,7 @@ A curated list of awesome data visualizations research papers, books, blog posts
 ## Animation
 
 - [Animation: From Cartoons to the User Interface](http://www.cc.gatech.edu/classes/AY2009/cs4470_fall/readings/animation.pdf) - lessons that interface designers can learn from cartoonists
+- [Temporal Distortion for Animated Transitions](https://engineering.purdue.edu/~elm/projects/timedistort/timedistort.pdf) - a study on the impact of different easing curves in animations
 
 ## Big Data
 
