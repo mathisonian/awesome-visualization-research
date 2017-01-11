@@ -14,6 +14,7 @@ A curated list of awesome data visualizations research papers, books, blog posts
 - [Human Computer Interaction](#human-computer-interaction)
 - [Research Methods](#research-methods)
 - [Systems, Toolkits, and Libraries](#systems-toolkits-and-libraries)
+- [Uncertainty](#uncertainty)
 
 
 ## Animation
@@ -49,6 +50,10 @@ A curated list of awesome data visualizations research papers, books, blog posts
 
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammer, built on top of vega
+
+## Uncertainty
+
+- [Hypothetical Outcome Plots: Experiencing the Uncertain](https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740) - a Medium post explaining Hypothetical Outcome Plots (HOPs), an approach to visualizing uncertain data
 
 # Contributing
 
