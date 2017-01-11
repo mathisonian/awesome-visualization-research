@@ -2,7 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome data visualizations research papers, books, blog posts, and other readings. If you are looking for more practical tools and libraries see [awesome-dataviz](https://github.com/fasouto/awesome-dataviz). At present this is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests. 
+A curated list of awesome data visualizations research papers, books, blog posts, and other readings. I aim to limit this to pieces that will be of interest to practitioners as well as academics, but if you are looking for more practical tools and libraries see [awesome-dataviz](https://github.com/fasouto/awesome-dataviz). 
+
+At present this list is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests. 
 
 
 ## Table of contents
