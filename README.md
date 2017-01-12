@@ -13,6 +13,7 @@ At present this list is very biased towards things I am reading for my personal 
 - [Big Data](#data-management)
 - [Color](#color)
 - [Data Management](#data-management)
+- [Graphs](#graphs)
 - [Human Computer Interaction](#human-computer-interaction)
 - [Research Methods](#research-methods)
 - [Systems, Toolkits, and Libraries](#systems-toolkits-and-libraries)
@@ -40,6 +41,10 @@ At present this list is very biased towards things I am reading for my personal 
 - [The Case for Data Visualization Management Systems](http://db.csail.mit.edu/pubs/p903-wu.pdf) - a vision paper arguing why we should build wholistic systems thinking of visualization and user interaction from the very start
 - [Data Cube: A Relational Aggregation Operator Generalizing Group-By, Cross-Tab, and Sub-Totals](http://cs.stanford.edu/people/chrismre/cs345/rl/olap.pdf) - paper introducing the classic data cube
 - [Tidy Data](http://vita.had.co.nz/papers/tidy-data.pdf) - Hadley Wickham's paper on data cleaning and formatting
+
+## Graphs
+
+- [Force-Directed Edge Bundling for Graph Visualization](https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf) - an algorithm for "bundling" edges on node-link diagrams, helps reduce visual clutter
 
 ## Human Computer Interaction
 
