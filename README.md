@@ -34,6 +34,7 @@ At present this list is very biased towards things I am reading for my personal 
 
 ## Color
 
+- [Affective Colour Palettes in Visualization](https://research.tableau.com/paper/affective-colour-palettes-visualization-poster) - how can different color palletes convey different emotions?
 - [mpl colormaps: a better default colormap for matplotlib](https://bids.github.io/colormap/) - detailed account of designing a better colormap for the popular matplotlib library
 - [How we designed the new color palettes in Tableau 10](https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782) - overview of designing color palettes in tableau
 
