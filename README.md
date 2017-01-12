@@ -17,8 +17,8 @@ At present this list is very biased towards things I am reading for my personal 
 - [Human Computer Interaction](#human-computer-interaction)
 - [Research Methods](#research-methods)
 - [Scientific Visualization](#scientific-visualization)
+- [Statistics and Uncertainty](#statistics-and-uncertainty)
 - [Systems, Toolkits, and Libraries](#systems-toolkits-and-libraries)
-- [Uncertainty](#uncertainty)
 
 
 ## Animation
@@ -60,14 +60,16 @@ At present this list is very biased towards things I am reading for my personal 
 
 - [Principles of high-dimensional data visualization in astronomy](http://projects.iq.harvard.edu/files/seamlessastronomy/files/heidelberg_ag.pdf) - this paper by Alyssa Goodman gives a good introduction to the concept of "linked views" (with the relevant history), and great more contemporary examples from domain sciences
 
+## Statistics and Uncertainty
+
+- [Hypothetical Outcome Plots: Experiencing the Uncertain](https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740) - a Medium post explaining Hypothetical Outcome Plots (HOPs), an approach to visualizing uncertain data
+- [The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models](http://mdwardlab.com/sites/default/files/GreenhillWardSacks.pdf) - a visual method for assessing the predictive power of models with binary outcomes
+
 ## Systems, Toolkits, and Libraries
 
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammer, built on top of vega
 
-## Uncertainty
-
-- [Hypothetical Outcome Plots: Experiencing the Uncertain](https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740) - a Medium post explaining Hypothetical Outcome Plots (HOPs), an approach to visualizing uncertain data
 
 # Contributing
 
