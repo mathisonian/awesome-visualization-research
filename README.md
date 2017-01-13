@@ -62,6 +62,9 @@ At present this list is very biased towards things I am reading for my personal 
 
 - [Principles of high-dimensional data visualization in astronomy](http://projects.iq.harvard.edu/files/seamlessastronomy/files/heidelberg_ag.pdf) - this paper by Alyssa Goodman gives a good introduction to the concept of "linked views" (with the relevant history), and great more contemporary examples from domain sciences
 
+- [How to make an engaging infographic]
+(http://bjsm.bmj.com/content/early/2016/12/30/bjsports-2016-097023)an interesting article about infographics in health promotion.
+
 ## Statistics and Uncertainty
 
 - [Hypothetical Outcome Plots: Experiencing the Uncertain](https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740) - a Medium post explaining Hypothetical Outcome Plots (HOPs), an approach to visualizing uncertain data
