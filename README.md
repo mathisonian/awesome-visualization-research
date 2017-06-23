@@ -19,6 +19,7 @@ At present this list is very biased towards things I am reading for my personal 
 - [Scientific Visualization](#scientific-visualization)
 - [Statistics and Uncertainty](#statistics-and-uncertainty)
 - [Systems, Toolkits, and Libraries](#systems-toolkits-and-libraries)
+- [Visual Forms](#visual-forms)
 
 
 ## Animation
@@ -47,12 +48,12 @@ At present this list is very biased towards things I am reading for my personal 
 ## Graphs
 
 - [Force-Directed Edge Bundling for Graph Visualization](https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf) - an algorithm for "bundling" edges on node-link diagrams, helps reduce visual clutter
-- [Stacked Graphs – Geometry & Aesthetics](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf) - In this paper Lee Byron & Martin Wattenberg introduce the streamgraph, a new type of stacked chart which was popularized by The New York Times.
 
 ## Human Computer Interaction
 
 - [The Effects of Interactive Latency on Exploratory Visual Analysis](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf) - a look at how latency in a user interface can affect user behavior and impact what they learn about datasets
 - [Past, Present and Future of User Interface Software Tools](http://www.cs.cmu.edu/~amulet/papers/futureofhci.pdf) - an overview of of successes and failures in user interface tools, ideas for thinking about them, and thoughts on the future
+- [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf) - a look at the effectiveness of different graphical forms 
 
 ## Research Methods
 
@@ -73,6 +74,8 @@ At present this list is very biased towards things I am reading for my personal 
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammer, built on top of vega
 
+## Visual Forms
+- [Stacked Graphs – Geometry & Aesthetics](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf) - In this paper Lee Byron & Martin Wattenberg introduce the streamgraph, a new type of stacked chart which was popularized by The New York Times.
 
 # Contributing
 
