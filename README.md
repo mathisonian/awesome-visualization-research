@@ -73,6 +73,7 @@ At present this list is very biased towards things I am reading for my personal 
 
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammer, built on top of vega
+- [D3: Data Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
 
 ## Visual Forms
 - [Stacked Graphs – Geometry & Aesthetics](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf) - In this paper Lee Byron & Martin Wattenberg introduce the streamgraph, a new type of stacked chart which was popularized by The New York Times.
