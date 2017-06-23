@@ -78,6 +78,7 @@ At present this list is very biased towards things I am reading for my personal 
 
 ## Visual Forms
 - [Stacked Graphs – Geometry & Aesthetics](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf) - In this paper Lee Byron & Martin Wattenberg introduce the streamgraph, a new type of stacked chart which was popularized by The New York Times.
+- [Sunburst Chart](ftp://ftp.cc.gatech.edu/pub/gvu/tech-reports/2000/00-03.pdf) - the sunburst chart is a radial alternative to a treemap
 
 # Contributing
 
