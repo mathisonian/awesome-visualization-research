@@ -47,6 +47,7 @@ At present this list is very biased towards things I am reading for my personal 
 
 ## Graphs
 
+- [Scalable Graph Exploration and Visualization: Sensemaking Challenges and Opportunities](https://www.cc.gatech.edu/~dchau/papers/15-bigcomp-sensemaking.pdf) - survey paper focusing on large graph exploration and sensemaking, summarizes algorithms, visualizations, and interaction techniques 
 - [Force-Directed Edge Bundling for Graph Visualization](https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf) - an algorithm for "bundling" edges on node-link diagrams, helps reduce visual clutter
 - [HOLA: Human-like Orthogonal Network Layout](http://marvl.infotech.monash.edu/~dwyer/papers/hola2015.pdf) - an algorithm for producing graphs that look like they were drawn by a person
 
