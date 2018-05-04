@@ -9,7 +9,9 @@ At present this list is very biased towards things I am reading for my personal 
 
 ## Table of contents
 
+
 - [Animation](#animation)
+- [Automated Visualization Design](#automated-visualization-design)
 - [Big Data](#data-management)
 - [Color](#color)
 - [Data Management](#data-management)
@@ -26,6 +28,12 @@ At present this list is very biased towards things I am reading for my personal 
 
 - [Animation: From Cartoons to the User Interface](http://www.cc.gatech.edu/classes/AY2009/cs4470_fall/readings/animation.pdf) - lessons that interface designers can learn from cartoonists
 - [Temporal Distortion for Animated Transitions](https://engineering.purdue.edu/~elm/projects/timedistort/timedistort.pdf) - a study on the impact of different easing curves in animations
+
+
+
+## Automated Visualization Design
+
+- [Automating the Design of Graphical Presentations of Relational Information](https://research.tableau.com/sites/default/files/p110-mackinlay.pdf) - algorithm for automatically creating a visualization, given a dataset.
 
 ## Big Data
 
