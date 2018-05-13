@@ -71,6 +71,8 @@ Visualization Story Reading Experiences](https://www.cs.utah.edu/~miriah/publica
  
 ## Research Methods
 
+- [Crowdsourcing Graphical Perception: Using Mechanical
+Turk to Assess Visualization Design](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf) - Heer and Bostock paper using crowdsourced participants that validates its utility as a research tool.
 - [Process and Pitfalls in Writing Information Visualization Research Papers](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf) - an overview of different types of information visualization papers, and common problems that researchers face
 
 ## Scientific Visualization
