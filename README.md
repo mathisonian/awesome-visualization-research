@@ -36,8 +36,7 @@ At present this list is very biased towards things I am reading for my personal 
 ## Color
 
 - [Affective Colour Palettes in Visualization](https://research.tableau.com/paper/affective-colour-palettes-visualization-poster) - how can different color palletes convey different emotions?
-- [Algorithmic improvements for the CIECAM02
-and CAM16 color appearance models](https://www.researchgate.net/publication/323257267_Algorithmic_improvements_for_the_CIECAM02_and_CAM16_color_appearance_models/fulltext/5a8a41120f7e9b1a95543172/323257267_Algorithmic_improvements_for_the_CIECAM02_and_CAM16_color_appearance_models.pdf?origin=publication_detail) - An overview of the CIECAM16 and CIECAM02 color appearance models, thought to be successors to the popular CIELAB model.
+- [Algorithmic improvements for the CIECAM02 and CAM16 color appearance models](https://www.researchgate.net/publication/323257267_Algorithmic_improvements_for_the_CIECAM02_and_CAM16_color_appearance_models/fulltext/5a8a41120f7e9b1a95543172/323257267_Algorithmic_improvements_for_the_CIECAM02_and_CAM16_color_appearance_models.pdf?origin=publication_detail) - An overview of the CIECAM16 and CIECAM02 color appearance models, thought to be successors to the popular CIELAB model.
 - [mpl colormaps: a better default colormap for matplotlib](https://bids.github.io/colormap/) - detailed account of designing a better colormap for the popular matplotlib library
 - [How we designed the new color palettes in Tableau 10](https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782) - overview of designing color palettes in tableau
 - [Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps](https://idl.cs.washington.edu/papers/quantitative-color/) - Comparative analysis of different color maps and rainbow scales.
@@ -50,8 +49,7 @@ and CAM16 color appearance models](https://www.researchgate.net/publication/3232
 
 ## Graphs
 
-- [Towards Unambiguous Edge Bundling: Investigating
-Confluent Drawings for Network Visualization](http://ialab.it.monash.edu/~dwyer/papers/confluentbundling.pdf) - User study of edge bundling and compression techniques.
+- [Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization](http://ialab.it.monash.edu/~dwyer/papers/confluentbundling.pdf) - User study of edge bundling and compression techniques.
 - [Scalable Graph Exploration and Visualization: Sensemaking Challenges and Opportunities](https://www.cc.gatech.edu/~dchau/papers/15-bigcomp-sensemaking.pdf) - survey paper focusing on large graph exploration and sensemaking, summarizes algorithms, visualizations, and interaction techniques 
 - [Force-Directed Edge Bundling for Graph Visualization](https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf) - an algorithm for "bundling" edges on node-link diagrams, helps reduce visual clutter
 - [HOLA: Human-like Orthogonal Network Layout](http://marvl.infotech.monash.edu/~dwyer/papers/hola2015.pdf) - an algorithm for producing graphs that look like they were drawn by a person
@@ -66,13 +64,11 @@ Confluent Drawings for Network Visualization](http://ialab.it.monash.edu/~dwyer/
 
 ## Narrative and Story
 - [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) - Heer attempt in 2010 to describe a shift happening in the use of visualizations toward what he calls "narrative visualization"
-- [Visual Narrative Flow: Exploring Factors Shaping Data
-Visualization Story Reading Experiences](https://www.cs.utah.edu/~miriah/publications/narrative-flow.pdf) - Discussion of scrollers and steppers and whether readers prefer a "flow" experience over something more static
+- [Visual Narrative Flow: Exploring Factors Shaping Data Visualization Story Reading Experiences](https://www.cs.utah.edu/~miriah/publications/narrative-flow.pdf) - Discussion of scrollers and steppers and whether readers prefer a "flow" experience over something more static
  
 ## Research Methods
 
-- [Crowdsourcing Graphical Perception: Using Mechanical
-Turk to Assess Visualization Design](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf) - Heer and Bostock paper using crowdsourced participants that validates its utility as a research tool.
+- [Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf) - Heer and Bostock paper using crowdsourced participants that validates its utility as a research tool.
 - [Process and Pitfalls in Writing Information Visualization Research Papers](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf) - an overview of different types of information visualization papers, and common problems that researchers face
 
 ## Scientific Visualization
@@ -94,12 +90,11 @@ Turk to Assess Visualization Design](http://vis.stanford.edu/files/2010-MTurk-CH
 
 ## Visual Forms
 - [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
-- (Evaluation of Alternative Glyph Designs for Time Series
-Data in a Small Multiple Setting)[https://www.lri.fr/~isenberg/publications/papers/Fuchs_2013_EOA.pdf] - User study of different timeline styles (line, star, radial etc.).
-- [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](https://www.jstor.org/stable/2288400?seq=1#page_scan_tab_contents) - Classic paper with ranked lists of how well people decode visual cues.
-- [Sizing the Horizon: The Effects of Chart Size and Layering
-on the Graphical Perception of Time Series Visualizations](http://www.vis.berkeley.edu/papers/horizon/2009-TimeSeries-CHI.pdf) - Heer user study of time series area charts vs. horizon charts.
+- [Evaluation of Alternative Glyph Designs for Time Series Data in a Small Multiple Setting](https://www.lri.fr/~isenberg/publications/papers/Fuchs_2013_EOA.pdf) - User study of different timeline styles (line, star, radial etc.).
 - [Four Experiments on the Perception of Bar Charts](https://research.tableau.com/sites/default/files/bar.pdf) - Follow-up to Cleveland's 1984 study that looks closer at why and when bar charts are preferable
+- [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](https://www.jstor.org/stable/2288400?seq=1#page_scan_tab_contents) - Classic paper with ranked lists of how well people decode visual cues.
+- [Sizing the Horizon: The Effects of Chart Size and Layering on the Graphical Perception of Time Series Visualizations](http://www.vis.berkeley.edu/papers/horizon/2009-TimeSeries-CHI.pdf) - Heer user study of time series area charts vs. horizon charts.
+- [Perceptual Guidelines for Creating Rectangular Treemaps](https://pdfs.semanticscholar.org/12e5/f66739c6f746d0ebfc52eb52f18d288f4064.pdf) - Heer user study on the effective design of treemaps, followed up by later studies
 - [Stacked Graphs – Geometry & Aesthetics](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf) - In this paper Lee Byron & Martin Wattenberg introduce the streamgraph, a new type of stacked chart which was popularized by The New York Times.
 - [Sunburst Chart](http://www.cc.gatech.edu/~john.stasko/papers/infovis00.pdf) - the sunburst chart is a radial alternative to a treemap
 -[The Connected Scatterplot for Presenting Paired Time Series](https://research.tableau.com/sites/default/files/Haroz-TVCG-2016.pdf) - Kosara user study of the connected scatter plot.
