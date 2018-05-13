@@ -69,6 +69,7 @@ At present this list is very biased towards things I am reading for my personal 
 
 ## Perception 
 
+- [Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings](http://idl.cs.washington.edu/files/2018-TaskDataEffectiveness-EuroVis.pdf) - An attempt to refine studies of visual encoding by including the distribution of data and task to be performed by the viewer when measuring visualization performance
 - [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf) - Classic Cleveland paper looks at the effectiveness of different graphical forms 
 - [How do People Make Sense of Unfamiliar Visualizations?](https://pdfs.semanticscholar.org/9fcc/2e2314cdf713a3763c9288b1a8fff9b64873.pdf) - An attempt to model how how people make sense of information visualizations -- in particular unfamiliar visualization forms.
 - [Structure and strategy in encoding simplified graphs](https://pdfs.semanticscholar.org/14fa/c8a02c038ec88fa9a7139df5adc03831fe82.pdf) - a study of "cognitive reference frames" for visualization and how people remember graphs symmetrically, even when the data is asymmetric
