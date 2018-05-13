@@ -15,6 +15,8 @@ At present this list is very biased towards things I am reading for my personal 
 - [Data Management](#data-management)
 - [Graphs](#graphs)
 - [Human Computer Interaction](#human-computer-interaction)
+- [Narrative and Story](#narrative-and-story)
+- [Perception](#perception)
 - [Research Methods](#research-methods)
 - [Scientific Visualization](#scientific-visualization)
 - [Statistics and Uncertainty](#statistics-and-uncertainty)
