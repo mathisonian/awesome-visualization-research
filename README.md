@@ -91,7 +91,7 @@ At present this list is very biased towards things I am reading for my personal 
 
 ## Systems, Toolkits, and Libraries
 
--- [A Layered Grammar of Graphics](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) - description of ggplot2 by Hadley Wickham.
+- [A Layered Grammar of Graphics](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) - description of ggplot2 by Hadley Wickham.
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammer, built on top of vega
 - [D3: Data Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
