@@ -105,7 +105,7 @@ At present this list is very biased towards things I am reading for my personal 
 - [Perceptual Guidelines for Creating Rectangular Treemaps](https://pdfs.semanticscholar.org/12e5/f66739c6f746d0ebfc52eb52f18d288f4064.pdf) - Heer user study on the effective design of treemaps, followed up by later studies
 - [Stacked Graphs – Geometry & Aesthetics](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf) - In this paper Lee Byron & Martin Wattenberg introduce the streamgraph, a new type of stacked chart which was popularized by The New York Times.
 - [Sunburst Chart](http://www.cc.gatech.edu/~john.stasko/papers/infovis00.pdf) - the sunburst chart is a radial alternative to a treemap
--[The Connected Scatterplot for Presenting Paired Time Series](https://research.tableau.com/sites/default/files/Haroz-TVCG-2016.pdf) - Kosara user study of the connected scatter plot.
+- [The Connected Scatterplot for Presenting Paired Time Series](https://research.tableau.com/sites/default/files/Haroz-TVCG-2016.pdf) - Kosara user study of the connected scatter plot.
 - [Timelines Revisited: A Design Space and Considerations for Expressive Storytelling](https://pdfs.semanticscholar.org/0812/fd5208001851e75d6c2f0881e2f5d037f285.pdf) - A metareview of over 200 timeline designs.
 
 # Contributing
