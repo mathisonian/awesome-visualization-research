@@ -50,6 +50,8 @@ and CAM16 color appearance models](https://www.researchgate.net/publication/3232
 
 ## Graphs
 
+- [Towards Unambiguous Edge Bundling: Investigating
+Confluent Drawings for Network Visualization](http://ialab.it.monash.edu/~dwyer/papers/confluentbundling.pdf) - User study of edge bundling and compression techniques.
 - [Scalable Graph Exploration and Visualization: Sensemaking Challenges and Opportunities](https://www.cc.gatech.edu/~dchau/papers/15-bigcomp-sensemaking.pdf) - survey paper focusing on large graph exploration and sensemaking, summarizes algorithms, visualizations, and interaction techniques 
 - [Force-Directed Edge Bundling for Graph Visualization](https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf) - an algorithm for "bundling" edges on node-link diagrams, helps reduce visual clutter
 - [HOLA: Human-like Orthogonal Network Layout](http://marvl.infotech.monash.edu/~dwyer/papers/hola2015.pdf) - an algorithm for producing graphs that look like they were drawn by a person
