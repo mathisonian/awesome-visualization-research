@@ -63,6 +63,7 @@ At present this list is very biased towards things I am reading for my personal 
 - [Past, Present and Future of User Interface Software Tools](http://www.cs.cmu.edu/~amulet/papers/futureofhci.pdf) - an overview of of successes and failures in user interface tools, ideas for thinking about them, and thoughts on the future
 
 ## Narrative and Story
+
 - [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) - Heer attempt in 2010 to describe a shift happening in the use of visualizations toward what he calls "narrative visualization"
 - [Visual Narrative Flow: Exploring Factors Shaping Data Visualization Story Reading Experiences](https://www.cs.utah.edu/~miriah/publications/narrative-flow.pdf) - Discussion of scrollers and steppers and whether readers prefer a "flow" experience over something more static
 
