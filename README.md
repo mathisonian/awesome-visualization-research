@@ -91,6 +91,8 @@ Visualization Story Reading Experiences](https://www.cs.utah.edu/~miriah/publica
 
 ## Visual Forms
 - [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
+- (Evaluation of Alternative Glyph Designs for Time Series
+Data in a Small Multiple Setting)[https://www.lri.fr/~isenberg/publications/papers/Fuchs_2013_EOA.pdf] - User study of different timeline styles (line, star, radial etc.).
 - [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](https://www.jstor.org/stable/2288400?seq=1#page_scan_tab_contents) - Classic paper with ranked lists of how well people decode visual cues.
 - [Sizing the Horizon: The Effects of Chart Size and Layering
 on the Graphical Perception of Time Series Visualizations](http://www.vis.berkeley.edu/papers/horizon/2009-TimeSeries-CHI.pdf) - Heer user study of time series area charts vs. horizon charts.
