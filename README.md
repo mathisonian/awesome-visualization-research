@@ -63,6 +63,11 @@ Confluent Drawings for Network Visualization](http://ialab.it.monash.edu/~dwyer/
 - [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf) - a look at the effectiveness of different graphical forms 
 - [How do People Make Sense of Unfamiliar Visualizations?](https://pdfs.semanticscholar.org/9fcc/2e2314cdf713a3763c9288b1a8fff9b64873.pdf) - An attempt to model how how people make sense of information visualizations -- in particular unfamiliar visualization forms.
 
+## Narrative and story
+- [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) - Heer attempt in 2010 to describe a shift happening in the use of visualizations toward what he calls "narrative visualization"
+- [Visual Narrative Flow: Exploring Factors Shaping Data
+Visualization Story Reading Experiences](https://www.cs.utah.edu/~miriah/publications/narrative-flow.pdf) - Discussion of scrollers and steppers and whether readers prefer a "flow" experience over something more static
+ 
 ## Research Methods
 
 - [Process and Pitfalls in Writing Information Visualization Research Papers](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf) - an overview of different types of information visualization papers, and common problems that researchers face
