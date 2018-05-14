@@ -4,7 +4,7 @@
 
 A curated list of data visualizations research papers, books, blog posts, and other readings. I aim to limit this to pieces that will be of interest to practitioners as well as academics. If you are looking for more practical tools and libraries see [awesome-dataviz](https://github.com/fasouto/awesome-dataviz). 
 
-At present this list is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests. 
+At present this list is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests. H/t to [@petulla](http://github.com/petulla) for adding a large round of contributions.
 
 
 ## Table of contents
