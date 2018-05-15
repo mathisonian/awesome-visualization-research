@@ -118,6 +118,7 @@ At present this list is very biased towards things I am reading for my personal 
 - [Sunburst Chart](http://www.cc.gatech.edu/~john.stasko/papers/infovis00.pdf) - the sunburst chart is a radial alternative to a treemap
 - [The Connected Scatterplot for Presenting Paired Time Series](https://research.tableau.com/sites/default/files/Haroz-TVCG-2016.pdf) - Kosara user study of the connected scatter plot.
 - [Timelines Revisited: A Design Space and Considerations for Expressive Storytelling](https://pdfs.semanticscholar.org/0812/fd5208001851e75d6c2f0881e2f5d037f285.pdf) - A metastudy of over 200 timeline designs.
+- [Tree-Maps: a space-filling approach to the visualization of hierarchical information structures](https://dl.acm.org/citation.cfm?id=949654) - Shneiderman's treemap paper, where he describes the form initially
 - [Using Typography to Expand the Design Space of Data Visualization](https://www.sciencedirect.com/science/article/pii/S2405872616300107) - Exploration of ways to use type to construct visualization forms
 
 # Contributing
