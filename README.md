@@ -4,7 +4,7 @@
 
 A curated list of data visualizations research papers, books, blog posts, and other readings. I aim to limit this to pieces that will be of interest to practitioners as well as academics. If you are looking for more practical tools and libraries see [awesome-dataviz](https://github.com/fasouto/awesome-dataviz). 
 
-At present this list is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests. H/t to [@petulla](http://github.com/petulla) for adding a large round of contributions.
+At present this list is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests. H/t to [@petulla](http://github.com/petulla) for adding a round of contributions.
 
 
 ## Table of contents
@@ -42,6 +42,7 @@ At present this list is very biased towards things I am reading for my personal 
 - [mpl colormaps: a better default colormap for matplotlib](https://bids.github.io/colormap/) - detailed account of designing a better colormap for the popular matplotlib library
 - [How we designed the new color palettes in Tableau 10](https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782) - overview of designing color palettes in tableau
 - [Modeling Color Difference for Visualization Design](http://cmci.colorado.edu/visualab/VisColors/) - An attempt to quantify how color is perceived differently depending on the form of the visualization
+- [Revised color-appearance model for related and unrelated colors](https://www.researchgate.net/publication/229676527_Revised_color-appearance_model_for_related_and_unrelated_colors) - Hunt's color appearance model, which was used as the basis for the Colorbrewer palettes. 
 - [Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps](https://idl.cs.washington.edu/papers/quantitative-color/) - Comparative analysis of different color maps and rainbow scales.
 
 ## Data Management
