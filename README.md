@@ -4,7 +4,7 @@
 
 A curated list of data visualizations research papers, books, blog posts, and other readings. I aim to limit this to pieces that will be of interest to practitioners as well as academics. If you are looking for more practical tools and libraries see [awesome-dataviz](https://github.com/fasouto/awesome-dataviz). 
 
-At present this list is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests. 
+At present this list is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests. H/t to [@petulla](http://github.com/petulla) for adding a round of contributions.
 
 
 ## Table of contents
@@ -17,6 +17,8 @@ At present this list is very biased towards things I am reading for my personal 
 - [Data Management](#data-management)
 - [Graphs](#graphs)
 - [Human Computer Interaction](#human-computer-interaction)
+- [Narrative and Story](#narrative-and-story)
+- [Perception](#perception)
 - [Research Methods](#research-methods)
 - [Scientific Visualization](#scientific-visualization)
 - [Statistics and Uncertainty](#statistics-and-uncertainty)
@@ -44,8 +46,12 @@ At present this list is very biased towards things I am reading for my personal 
 ## Color
 
 - [Affective Colour Palettes in Visualization](https://research.tableau.com/paper/affective-colour-palettes-visualization-poster) - how can different color palletes convey different emotions?
+- [Algorithmic improvements for the CIECAM02 and CAM16 color appearance models](https://www.researchgate.net/publication/323257267_Algorithmic_improvements_for_the_CIECAM02_and_CAM16_color_appearance_models/fulltext/5a8a41120f7e9b1a95543172/323257267_Algorithmic_improvements_for_the_CIECAM02_and_CAM16_color_appearance_models.pdf?origin=publication_detail) - An overview of the CIECAM16 and CIECAM02 color appearance models, thought to be successors to the popular CIELAB model.
 - [mpl colormaps: a better default colormap for matplotlib](https://bids.github.io/colormap/) - detailed account of designing a better colormap for the popular matplotlib library
 - [How we designed the new color palettes in Tableau 10](https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782) - overview of designing color palettes in tableau
+- [Modeling Color Difference for Visualization Design](http://cmci.colorado.edu/visualab/VisColors/) - An attempt to model how color is perceived depending on form and viewing conditions of the visualization
+- [Revised color-appearance model for related and unrelated colors](https://www.researchgate.net/publication/229676527_Revised_color-appearance_model_for_related_and_unrelated_colors) - Hunt's color appearance model, which was used as the basis for the Colorbrewer palettes. 
+- [Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps](https://idl.cs.washington.edu/papers/quantitative-color/) - Comparative analysis of different color maps and rainbow scales.
 
 ## Data Management
 
@@ -55,18 +61,37 @@ At present this list is very biased towards things I am reading for my personal 
 
 ## Graphs
 
+- [Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization](http://ialab.it.monash.edu/~dwyer/papers/confluentbundling.pdf) - User study of edge bundling and compression techniques.
 - [Scalable Graph Exploration and Visualization: Sensemaking Challenges and Opportunities](https://www.cc.gatech.edu/~dchau/papers/15-bigcomp-sensemaking.pdf) - survey paper focusing on large graph exploration and sensemaking, summarizes algorithms, visualizations, and interaction techniques 
 - [Force-Directed Edge Bundling for Graph Visualization](https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf) - an algorithm for "bundling" edges on node-link diagrams, helps reduce visual clutter
 - [HOLA: Human-like Orthogonal Network Layout](http://marvl.infotech.monash.edu/~dwyer/papers/hola2015.pdf) - an algorithm for producing graphs that look like they were drawn by a person
 
 ## Human Computer Interaction
 
+- [Explaining the Gap: Visualizing One’s Predictions Improves Recall and Comprehension of Data](https://idl.cs.washington.edu/files/2017-ExplainingTheGap-CHI.pdf) - Paper validatng "you draw it" visualizatons and other modes of asking the reader for prediction input
 - [The Effects of Interactive Latency on Exploratory Visual Analysis](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf) - a look at how latency in a user interface can affect user behavior and impact what they learn about datasets
+-[Exploration Strategies for Discovery of Interactivity in Visualizations](https://prism.ucalgary.ca/bitstream/handle/1880/106607/2018-1104-03.pdf?sequence=1) - model for understanding how users first experience an interactive
 - [Past, Present and Future of User Interface Software Tools](http://www.cs.cmu.edu/~amulet/papers/futureofhci.pdf) - an overview of of successes and failures in user interface tools, ideas for thinking about them, and thoughts on the future
-- [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf) - a look at the effectiveness of different graphical forms 
 
+## Narrative and Story
+
+- [An argument structure for data stories](https://kosara.net/papers/2017/Kosara-EuroVis-2017.pdf) - Kosara's attempt to breakdown alternative narrative structures from the inverted pyramid suitable for data stories.
+- [Finding a Clear Path: Structuring Strategiesm for Visualization Sequences](https://kosara.net/papers/2017/Hullman-EuroVis-2017.pdf) - Study of strategies for ordering visualizations in a narrative
+- [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) - Heer attempt in 2010 to describe a shift happening in the use of visualizations toward what he calls "narrative visualization"
+- [Visual Narrative Flow: Exploring Factors Shaping Data Visualization Story Reading Experiences](https://www.cs.utah.edu/~miriah/publications/narrative-flow.pdf) - Discussion of scrollers and steppers and whether readers prefer a "flow" experience over something more static
+
+## Perception 
+
+- [Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings](http://idl.cs.washington.edu/files/2018-TaskDataEffectiveness-EuroVis.pdf) - An attempt to refine studies of visual encoding by including the task performed by the viewer when measuring visualization performance
+- [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf) - Classic Cleveland paper looks at the effectiveness of different graphical forms 
+- [How do People Make Sense of Unfamiliar Visualizations?](https://pdfs.semanticscholar.org/9fcc/2e2314cdf713a3763c9288b1a8fff9b64873.pdf) - An attempt to model how how people make sense of information visualizations -- in particular unfamiliar visualization forms.
+- [Structure and strategy in encoding simplified graphs](https://pdfs.semanticscholar.org/14fa/c8a02c038ec88fa9a7139df5adc03831fe82.pdf) - a study of "cognitive reference frames" for visualization and how people remember graphs symmetrically, even when the data is asymmetric
+- [Useful Junk? The effects of visual embellishment on comprehension and memorability of charts](https://www.researchgate.net/publication/221517808_Useful_Junk_The_effects_of_visual_embellishment_on_comprehension_and_memorability_of_charts) - Charts with "embellishments" (sometimes called chart junk) perform better in memory recall weeks after viewing
+
+ 
 ## Research Methods
 
+- [Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf) - Heer and Bostock paper using crowdsourced participants that validates its utility as a research tool.
 - [Process and Pitfalls in Writing Information Visualization Research Papers](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf) - an overview of different types of information visualization papers, and common problems that researchers face
 
 ## Scientific Visualization
@@ -76,18 +101,33 @@ At present this list is very biased towards things I am reading for my personal 
 ## Statistics and Uncertainty
 
 - [Hypothetical Outcome Plots: Experiencing the Uncertain](https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740) - a Medium post explaining Hypothetical Outcome Plots (HOPs), an approach to visualizing uncertain data
+- [Infovis and Statistical Graphs: Different Goals, Different Looks](http://www.stat.columbia.edu/~gelman/research/published/vis14.pdf) - Gelman's paper on how creators of statistical graphs can learn from the infovis community and vice-versa
+- [Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis](http://emanuelzgraggen.com/assets/pdf/risk.pdf) - Why the more visual comparisons an analyst makes, the more likely they are to find spurious patterns 
 - [The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models](http://mdwardlab.com/sites/default/files/GreenhillWardSacks.pdf) - a visual method for assessing the predictive power of models with binary outcomes
 - [Surprise! Bayesian Weighting for De-Biasing Thematic Maps](https://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf) - an adaptation of Bayesian surprise to generate better thematic maps. Unexpected events are visualized more prominently than those that follow expected patterns.
 
 ## Systems, Toolkits, and Libraries
 
+- [A Layered Grammar of Graphics](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) - description of ggplot2 by Hadley Wickham.
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammer, built on top of vega
 - [D3: Data Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
+- [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices. 
 
 ## Visual Forms
+- [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
+- [Evaluation of Alternative Glyph Designs for Time Series Data in a Small Multiple Setting](https://www.lri.fr/~isenberg/publications/papers/Fuchs_2013_EOA.pdf) - User study of different timeline styles (line, star, radial etc.).
+- [Four Experiments on the Perception of Bar Charts](https://research.tableau.com/sites/default/files/bar.pdf) - Follow-up to Cleveland's 1984 study that looks closer at why and when bar charts are preferable
+- [Graphical Methods for Data Presentation: Full Scale Breaks, Dot Charts, and Multibased Logging](https://www.jstor.org/stable/2683401) - Cleveland study on dot plots over bar charts
+- [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](https://www.jstor.org/stable/2288400?seq=1#page_scan_tab_contents) - Classic paper with ranked lists of how well people decode visual cues.
+- [Sizing the Horizon: The Effects of Chart Size and Layering on the Graphical Perception of Time Series Visualizations](http://www.vis.berkeley.edu/papers/horizon/2009-TimeSeries-CHI.pdf) - Heer user study of time series area charts vs. horizon charts.
+- [Perceptual Guidelines for Creating Rectangular Treemaps](https://pdfs.semanticscholar.org/12e5/f66739c6f746d0ebfc52eb52f18d288f4064.pdf) - Heer user study on the effective design of treemaps, followed up by later studies
 - [Stacked Graphs – Geometry & Aesthetics](http://leebyron.com/streamgraph/stackedgraphs_byron_wattenberg.pdf) - In this paper Lee Byron & Martin Wattenberg introduce the streamgraph, a new type of stacked chart which was popularized by The New York Times.
 - [Sunburst Chart](http://www.cc.gatech.edu/~john.stasko/papers/infovis00.pdf) - the sunburst chart is a radial alternative to a treemap
+- [The Connected Scatterplot for Presenting Paired Time Series](https://research.tableau.com/sites/default/files/Haroz-TVCG-2016.pdf) - Kosara user study of the connected scatter plot.
+- [Timelines Revisited: A Design Space and Considerations for Expressive Storytelling](https://pdfs.semanticscholar.org/0812/fd5208001851e75d6c2f0881e2f5d037f285.pdf) - A metastudy of over 200 timeline designs.
+- [Tree-Maps: a space-filling approach to the visualization of hierarchical information structures](https://dl.acm.org/citation.cfm?id=949654) - Shneiderman's treemap paper, where he describes the form initially
+- [Using Typography to Expand the Design Space of Data Visualization](https://www.sciencedirect.com/science/article/pii/S2405872616300107) - Exploration of ways to use type to construct visualization forms
 
 # Contributing
 
