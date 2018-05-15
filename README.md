@@ -93,7 +93,7 @@ At present this list is very biased towards things I am reading for my personal 
 ## Statistics and Uncertainty
 
 - [Hypothetical Outcome Plots: Experiencing the Uncertain](https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740) - a Medium post explaining Hypothetical Outcome Plots (HOPs), an approach to visualizing uncertain data
-- [Infovis and Statistical Graphs: Different Goals, Different Looks](http://www.stat.columbia.edu/~gelman/research/published/vis14.pdf) - Gelman's
+- [Infovis and Statistical Graphs: Different Goals, Different Looks](http://www.stat.columbia.edu/~gelman/research/published/vis14.pdf) - Gelman's paper on how creators of statistical graphs can learn from the infovis community and vice-versa
 - [Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis](http://emanuelzgraggen.com/assets/pdf/risk.pdf) - Why the more visual comparisons an analyst makes, the more likely they are to find spurious patterns 
 - [The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models](http://mdwardlab.com/sites/default/files/GreenhillWardSacks.pdf) - a visual method for assessing the predictive power of models with binary outcomes
 - [Surprise! Bayesian Weighting for De-Biasing Thematic Maps](https://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf) - an adaptation of Bayesian surprise to generate better thematic maps. Unexpected events are visualized more prominently than those that follow expected patterns.
