@@ -77,7 +77,7 @@ At present this list is very biased towards things I am reading for my personal 
 
 - [An argument structure for data stories](https://kosara.net/papers/2017/Kosara-EuroVis-2017.pdf) - Kosara's attempt to breakdown alternative narrative structures from the inverted pyramid suitable for data stories.
 - [Finding a Clear Path: Structuring Strategiesm for Visualization Sequences](https://kosara.net/papers/2017/Hullman-EuroVis-2017.pdf) - Study of strategies for ordering visualizations in a narrative
-- [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) - Heer attempt in 2010 to describe a shift happening in the use of visualizations toward what he calls "narrative visualization"
+- [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) - Heer's attempt in 2010 to describe a shift happening in the use of visualizations toward what he calls "narrative visualization"
 - [Visual Narrative Flow: Exploring Factors Shaping Data Visualization Story Reading Experiences](https://www.cs.utah.edu/~miriah/publications/narrative-flow.pdf) - Discussion of scrollers and steppers and whether readers prefer a "flow" experience over something more static
 
 ## Perception 
