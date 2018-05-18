@@ -70,7 +70,7 @@ At present this list is very biased towards things I am reading for my personal 
 
 - [Explaining the Gap: Visualizing One’s Predictions Improves Recall and Comprehension of Data](https://idl.cs.washington.edu/files/2017-ExplainingTheGap-CHI.pdf) - Paper validatng "you draw it" visualizatons and other modes of asking the reader for prediction input
 - [The Effects of Interactive Latency on Exploratory Visual Analysis](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf) - a look at how latency in a user interface can affect user behavior and impact what they learn about datasets
--[Exploration Strategies for Discovery of Interactivity in Visualizations](https://prism.ucalgary.ca/bitstream/handle/1880/106607/2018-1104-03.pdf?sequence=1) - model for understanding how users first experience an interactive
+- [Exploration Strategies for Discovery of Interactivity in Visualizations](https://prism.ucalgary.ca/bitstream/handle/1880/106607/2018-1104-03.pdf?sequence=1) - model for understanding how users first experience an interactive
 - [Past, Present and Future of User Interface Software Tools](http://www.cs.cmu.edu/~amulet/papers/futureofhci.pdf) - an overview of of successes and failures in user interface tools, ideas for thinking about them, and thoughts on the future
 
 ## Narrative and Story
