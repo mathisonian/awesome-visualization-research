@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of data visualizations research papers, books, blog posts, and other readings. I aim to limit this to pieces that will be of interest to practitioners as well as academics. If you are looking for more practical tools and libraries see [awesome-dataviz](https://github.com/fasouto/awesome-dataviz). 
+A curated list of data visualizations research papers, books, blog posts, and other readings. I aim to limit this to pieces that will be of interest to practitioners as well as academics. If you are looking for more practical tools and libraries see [awesome-dataviz](https://github.com/fasouto/awesome-dataviz).
 
 At present this list is very biased towards things I am reading for my personal research interests, but I'd gladly accept pull requests. H/t to [@petulla](http://github.com/petulla) for adding a round of contributions.
 
@@ -50,7 +50,7 @@ At present this list is very biased towards things I am reading for my personal 
 - [mpl colormaps: a better default colormap for matplotlib](https://bids.github.io/colormap/) - detailed account of designing a better colormap for the popular matplotlib library
 - [How we designed the new color palettes in Tableau 10](https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782) - overview of designing color palettes in tableau
 - [Modeling Color Difference for Visualization Design](http://cmci.colorado.edu/visualab/VisColors/) - An attempt to model how color is perceived depending on form and viewing conditions of the visualization
-- [Revised color-appearance model for related and unrelated colors](https://www.researchgate.net/publication/229676527_Revised_color-appearance_model_for_related_and_unrelated_colors) - Hunt's color appearance model, which was used as the basis for the Colorbrewer palettes. 
+- [Revised color-appearance model for related and unrelated colors](https://www.researchgate.net/publication/229676527_Revised_color-appearance_model_for_related_and_unrelated_colors) - Hunt's color appearance model, which was used as the basis for the Colorbrewer palettes.
 - [Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps](https://idl.cs.washington.edu/papers/quantitative-color/) - Comparative analysis of different color maps and rainbow scales.
 
 ## Data Management
@@ -62,7 +62,7 @@ At present this list is very biased towards things I am reading for my personal 
 ## Graphs
 
 - [Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization](http://ialab.it.monash.edu/~dwyer/papers/confluentbundling.pdf) - User study of edge bundling and compression techniques.
-- [Scalable Graph Exploration and Visualization: Sensemaking Challenges and Opportunities](https://www.cc.gatech.edu/~dchau/papers/15-bigcomp-sensemaking.pdf) - survey paper focusing on large graph exploration and sensemaking, summarizes algorithms, visualizations, and interaction techniques 
+- [Scalable Graph Exploration and Visualization: Sensemaking Challenges and Opportunities](https://www.cc.gatech.edu/~dchau/papers/15-bigcomp-sensemaking.pdf) - survey paper focusing on large graph exploration and sensemaking, summarizes algorithms, visualizations, and interaction techniques
 - [Force-Directed Edge Bundling for Graph Visualization](https://www.win.tue.nl/vis1/home/dholten/papers/forcebundles_eurovis.pdf) - an algorithm for "bundling" edges on node-link diagrams, helps reduce visual clutter
 - [HOLA: Human-like Orthogonal Network Layout](http://marvl.infotech.monash.edu/~dwyer/papers/hola2015.pdf) - an algorithm for producing graphs that look like they were drawn by a person
 
@@ -79,16 +79,17 @@ At present this list is very biased towards things I am reading for my personal 
 - [Finding a Clear Path: Structuring Strategiesm for Visualization Sequences](https://kosara.net/papers/2017/Hullman-EuroVis-2017.pdf) - Study of strategies for ordering visualizations in a narrative
 - [Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf) - Heer's attempt in 2010 to describe a shift happening in the use of visualizations toward what he calls "narrative visualization"
 - [Visual Narrative Flow: Exploring Factors Shaping Data Visualization Story Reading Experiences](https://www.cs.utah.edu/~miriah/publications/narrative-flow.pdf) - Discussion of scrollers and steppers and whether readers prefer a "flow" experience over something more static
+- [Visualization Rhetoric: Framing Effects in Narrative Visualization](http://www.nickdiakopoulos.com/Documents/visRhetoric_final_preprint.pdf) - Breakdown of rhetorical techniques in the framing of visualizations
 
-## Perception 
+## Perception
 
 - [Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings](http://idl.cs.washington.edu/files/2018-TaskDataEffectiveness-EuroVis.pdf) - An attempt to refine studies of visual encoding by including the task performed by the viewer when measuring visualization performance
-- [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf) - Classic Cleveland paper looks at the effectiveness of different graphical forms 
+- [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf) - Classic Cleveland paper looks at the effectiveness of different graphical forms
 - [How do People Make Sense of Unfamiliar Visualizations?](https://pdfs.semanticscholar.org/9fcc/2e2314cdf713a3763c9288b1a8fff9b64873.pdf) - An attempt to model how how people make sense of information visualizations -- in particular unfamiliar visualization forms.
 - [Structure and strategy in encoding simplified graphs](https://pdfs.semanticscholar.org/14fa/c8a02c038ec88fa9a7139df5adc03831fe82.pdf) - a study of "cognitive reference frames" for visualization and how people remember graphs symmetrically, even when the data is asymmetric
 - [Useful Junk? The effects of visual embellishment on comprehension and memorability of charts](https://www.researchgate.net/publication/221517808_Useful_Junk_The_effects_of_visual_embellishment_on_comprehension_and_memorability_of_charts) - Charts with "embellishments" (sometimes called chart junk) perform better in memory recall weeks after viewing
 
- 
+
 ## Research Methods
 
 - [Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf) - Heer and Bostock paper using crowdsourced participants that validates its utility as a research tool.
@@ -100,11 +101,14 @@ At present this list is very biased towards things I am reading for my personal 
 
 ## Statistics and Uncertainty
 
+- [Displayng Uncertainty with Shading](https://www.tandfonline.com/doi/abs/10.1198/000313008X370843?journalCode=utas20) - User study of shading techniques in representing uncertainty
 - [Hypothetical Outcome Plots: Experiencing the Uncertain](https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740) - a Medium post explaining Hypothetical Outcome Plots (HOPs), an approach to visualizing uncertain data
 - [Infovis and Statistical Graphs: Different Goals, Different Looks](http://www.stat.columbia.edu/~gelman/research/published/vis14.pdf) - Gelman's paper on how creators of statistical graphs can learn from the infovis community and vice-versa
 - [Investigating the Effect of the Multiple Comparisons Problem in Visual Analysis](http://emanuelzgraggen.com/assets/pdf/risk.pdf) - Why the more visual comparisons an analyst makes, the more likely they are to find spurious patterns 
 - [The Separation Plot: A New Visual Method for Evaluating the Fit of Binary Models](http://mdwardlab.com/sites/default/files/GreenhillWardSacks.pdf) - a visual method for assessing the predictive power of models with binary outcomes
-- [Surprise! Bayesian Weighting for De-Biasing Thematic Maps](https://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf) - an adaptation of Bayesian surprise to generate better thematic maps. Unexpected events are visualized more prominently than those that follow expected patterns.
+- [Sketchy Rendering for Information Visualization](http://openaccess.city.ac.uk/1274/) - Evaluation of use of "Sketchy" visualizations to represent uncertainty
+- [Surprise! Bayesian Weighting for De-Biasing Thematic Maps](https://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf) - an adaptation of Bayesian surprise to generate better thematic maps. Unexpected events are visualized more prominently than those that follow expected patterns
+- [The perception of visual uncertainty representation by non-experts](https://ieeexplore.ieee.org/document/6654171/) - User study of confidence bands, gradients and other techniques to show confidence intervals and uncertainty
 
 ## Systems, Toolkits, and Libraries
 
@@ -112,7 +116,7 @@ At present this list is very biased towards things I am reading for my personal 
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammer, built on top of vega
 - [D3: Data Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
-- [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices. 
+- [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices.
 
 ## Visual Forms
 - [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
