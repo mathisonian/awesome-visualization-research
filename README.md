@@ -94,6 +94,7 @@ At present this list is very biased towards things @petulla or I are reading for
 
 - [Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf) - Heer and Bostock paper using crowdsourced participants that validates its utility as a research tool.
 - [Process and Pitfalls in Writing Information Visualization Research Papers](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf) - an overview of different types of information visualization papers, and common problems that researchers face
+- [Why Evaluating Uncertainty Visualization is Error Prone](https://faculty.washington.edu/jhullman/paper_BELIV_evaluating_uncertainty_vis.pdf) - Evaluation of methodologies for measuring readers' grasp of uncertainty.
 
 ## Scientific Visualization
 
@@ -109,6 +110,8 @@ At present this list is very biased towards things @petulla or I are reading for
 - [Sketchy Rendering for Information Visualization](http://openaccess.city.ac.uk/1274/) - Evaluation of use of "Sketchy" visualizations to represent uncertainty
 - [Surprise! Bayesian Weighting for De-Biasing Thematic Maps](https://idl.cs.washington.edu/files/2017-SurpriseMaps-InfoVis.pdf) - an adaptation of Bayesian surprise to generate better thematic maps. Unexpected events are visualized more prominently than those that follow expected patterns
 - [The Perception of Visual Uncertainty Representation by Non-experts](https://ieeexplore.ieee.org/document/6654171/) - User study of confidence bands, gradients and other techniques to show confidence intervals and uncertainty
+- [When (ish) is My Bus? User-centered Visualizations of
+Uncertainty in Everyday, Mobile Predictive Systems](https://faculty.washington.edu/jhullman/busUncertaintyVis.pdf) - Evaluation of strategies for real-time visualizations that communicate uncertainty
 
 ## Systems, Toolkits, and Libraries
 
@@ -120,6 +123,8 @@ At present this list is very biased towards things @petulla or I are reading for
 
 ## Visual Forms
 - [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
+- [Data Through Others’ Eyes: The Impact of Visualizing Others’
+Expectations on Visualization Interpretation](https://faculty.washington.edu/jhullman/VIS17_Expectations_SocialVis.pdf) - Evaluation of visualizations that reveal other user's expectations around a dataset, like NYT's You Draw It results graphs.
 - [Evaluation of Alternative Glyph Designs for Time Series Data in a Small Multiple Setting](https://www.lri.fr/~isenberg/publications/papers/Fuchs_2013_EOA.pdf) - User study of different timeline styles (line, star, radial etc.).
 - [Four Experiments on the Perception of Bar Charts](https://research.tableau.com/sites/default/files/bar.pdf) - Follow-up to Cleveland's 1984 study that looks closer at why and when bar charts are preferable
 - [Graphical Methods for Data Presentation: Full Scale Breaks, Dot Charts, and Multibased Logging](https://www.jstor.org/stable/2683401) - Cleveland study on dot plots over bar charts
