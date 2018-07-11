@@ -116,9 +116,11 @@ Uncertainty in Everyday, Mobile Predictive Systems](https://faculty.washington.e
 ## Systems, Toolkits, and Libraries
 
 - [A Layered Grammar of Graphics](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) - description of ggplot2 by Hadley Wickham.
-- [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
-- [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammer, built on top of vega
 - [D3: Data Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
+- [Declarative Language Design for Interactive Visualization](http://idl.cs.washington.edu/papers/protovis-design/) - Investigation of the design of declarative, domain-specific languages for constructing interactive visualizations. Informs decisions in Vega and Protovis.
+- [Software Design Patterns for Information Visualization](http://idl.cs.washington.edu/papers/infovis-design-patterns/) - Discussion of how to effectively design software for information visualizations.
+- [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
+- [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammar for interaction, built on top of vega
 - [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices.
 
 ## Visual Forms
