@@ -42,6 +42,7 @@ At present this list is very biased towards things [@petulla](http://github.com/
 - [Hierarchical Aggregation for Information Visualization: Overview, Techniques and Design Guidelines](https://engineering.purdue.edu/~elm/projects/hieragg/hieragg.pdf) - a model for multiscale representations of data, enabling more scalable visualization techniques
 - [imMens: Real-time visual querying of big data](http://vis.stanford.edu/projects/immens/) - in browser system that leverages the GPU for real-time interaction
 - [Nanocubes: Fast visualization of large spatiotemporal datasets](http://nanocubes.net/) - specialized database system for visualizing spatiotemporal datasets
+- [Bin-summarise-smooth: A framework for visualising large data](https://vita.had.co.nz/papers/bigvis.pdf) - general visualization methods for large datasets
 
 ## Color
 
