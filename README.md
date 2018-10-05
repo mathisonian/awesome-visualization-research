@@ -122,6 +122,7 @@ Uncertainty in Everyday, Mobile Predictive Systems](https://faculty.washington.e
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammar for interaction, built on top of vega
 - [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices.
+- [Draco](https://uwdata.github.io/draco/) - a formal framework for representing design knowledge about effective visualization design as a collection of constraints. Can be used to build visualization recommendation systems. 
 
 ## Visual Forms
 - [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
