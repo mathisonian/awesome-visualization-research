@@ -42,6 +42,7 @@ At present this list is very biased towards things [@petulla](http://github.com/
 - [Hierarchical Aggregation for Information Visualization: Overview, Techniques and Design Guidelines](https://engineering.purdue.edu/~elm/projects/hieragg/hieragg.pdf) - a model for multiscale representations of data, enabling more scalable visualization techniques
 - [imMens: Real-time visual querying of big data](http://vis.stanford.edu/projects/immens/) - in browser system that leverages the GPU for real-time interaction
 - [Nanocubes: Fast visualization of large spatiotemporal datasets](http://nanocubes.net/) - specialized database system for visualizing spatiotemporal datasets
+- [Bin-summarise-smooth: A framework for visualising large data](https://vita.had.co.nz/papers/bigvis.pdf) - general visualization methods for large datasets
 
 ## Color
 
@@ -125,6 +126,7 @@ Uncertainty in Everyday, Mobile Predictive Systems](https://faculty.washington.e
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammar for interaction, built on top of vega
 - [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices.
+- [Draco](https://uwdata.github.io/draco/) - a formal framework for representing design knowledge about effective visualization design as a collection of constraints. Can be used to build visualization recommendation systems. 
 
 ## Visual Forms
 - [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
