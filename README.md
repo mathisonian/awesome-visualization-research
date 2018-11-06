@@ -12,7 +12,7 @@ At present this list is very biased towards things [@petulla](http://github.com/
 
 - [Animation](#animation)
 - [Automated Visualization Design](#automated-visualization-design)
-- [Big Data](#data-management)
+- [Big Data](#big-data)
 - [Color](#color)
 - [Data Management](#data-management)
 - [Graphs](#graphs)
@@ -46,7 +46,7 @@ At present this list is very biased towards things [@petulla](http://github.com/
 
 ## Color
 
-- [Affective Colour Palettes in Visualization](https://research.tableau.com/paper/affective-colour-palettes-visualization-poster) - how can different color palletes convey different emotions?
+- [Affective Colour Palettes in Visualization](https://research.tableau.com/paper/affective-colour-palettes-visualization-poster) - how can different color palette convey different emotions?
 - [Algorithmic improvements for the CIECAM02 and CAM16 color appearance models](https://www.researchgate.net/publication/323257267_Algorithmic_improvements_for_the_CIECAM02_and_CAM16_color_appearance_models/fulltext/5a8a41120f7e9b1a95543172/323257267_Algorithmic_improvements_for_the_CIECAM02_and_CAM16_color_appearance_models.pdf?origin=publication_detail) - An overview of the CIECAM16 and CIECAM02 color appearance models, thought to be successors to the popular CIELAB model.
 - [mpl colormaps: a better default colormap for matplotlib](https://bids.github.io/colormap/) - detailed account of designing a better colormap for the popular matplotlib library
 - [How we designed the new color palettes in Tableau 10](https://www.tableau.com/about/blog/2016/7/colors-upgrade-tableau-10-56782) - overview of designing color palettes in tableau
@@ -69,10 +69,10 @@ At present this list is very biased towards things [@petulla](http://github.com/
 
 ## Human Computer Interaction
 
-- [Explaining the Gap: Visualizing One’s Predictions Improves Recall and Comprehension of Data](https://idl.cs.washington.edu/files/2017-ExplainingTheGap-CHI.pdf) - Paper validatng "you draw it" visualizatons and other modes of asking the reader for prediction input
+- [Explaining the Gap: Visualizing One’s Predictions Improves Recall and Comprehension of Data](https://idl.cs.washington.edu/files/2017-ExplainingTheGap-CHI.pdf) - Paper validating "you draw it" visualizations and other modes of asking the reader for prediction input
 - [The Effects of Interactive Latency on Exploratory Visual Analysis](https://idl.cs.washington.edu/files/2014-Latency-InfoVis.pdf) - a look at how latency in a user interface can affect user behavior and impact what they learn about datasets
 - [Exploration Strategies for Discovery of Interactivity in Visualizations](https://prism.ucalgary.ca/bitstream/handle/1880/106607/2018-1104-03.pdf?sequence=1) - model for understanding how users first experience an interactive
-- [Past, Present and Future of User Interface Software Tools](http://www.cs.cmu.edu/~amulet/papers/futureofhci.pdf) - an overview of of successes and failures in user interface tools, ideas for thinking about them, and thoughts on the future
+- [Past, Present and Future of User Interface Software Tools](http://www.cs.cmu.edu/~amulet/papers/futureofhci.pdf) - an overview of successes and failures in user interface tools, ideas for thinking about them, and thoughts on the future
 
 ## Narrative and Story
 
@@ -88,7 +88,7 @@ At present this list is very biased towards things [@petulla](http://github.com/
 - [Attention Capacity](http://steveharoz.com/research/attention/) - The capacity of attention is limited. How does this limitation impact visualization?
 - [Four types of ensemble coding in data visualizations](https://www.ncbi.nlm.nih.gov/pubmed/26982369) - An evaluation of four perceptual tasks performed by audiences of data visualization.
 - [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf) - Classic Cleveland paper looks at the effectiveness of different graphical forms
-- [How do People Make Sense of Unfamiliar Visualizations?](https://pdfs.semanticscholar.org/9fcc/2e2314cdf713a3763c9288b1a8fff9b64873.pdf) - An attempt to model how how people make sense of information visualizations -- in particular unfamiliar visualization forms.
+- [How do People Make Sense of Unfamiliar Visualizations?](https://pdfs.semanticscholar.org/9fcc/2e2314cdf713a3763c9288b1a8fff9b64873.pdf) - An attempt to model how people make sense of information visualizations -- in particular unfamiliar visualization forms.
 - [Learning Perceptual Kernels for Visualization Design](http://idl.cs.washington.edu/files/2014-PerceptualKernels-InfoVis.pdf) -  An introduction to perceptual kernels: distance matrices derived from aggregate perceptual judgments. Essentially, a way of quantifying perceptual similarity scores among different visualization encodings.
 - [Structure and strategy in encoding simplified graphs](https://pdfs.semanticscholar.org/14fa/c8a02c038ec88fa9a7139df5adc03831fe82.pdf) - a study of "cognitive reference frames" for visualization and how people remember graphs symmetrically, even when the data is asymmetric
 - [Useful Junk? The effects of visual embellishment on comprehension and memorability of charts](https://www.researchgate.net/publication/221517808_Useful_Junk_The_effects_of_visual_embellishment_on_comprehension_and_memorability_of_charts) - Charts with "embellishments" (sometimes called chart junk) perform better in memory recall weeks after viewing
@@ -123,7 +123,7 @@ Uncertainty in Everyday, Mobile Predictive Systems](https://faculty.washington.e
 - [D3: Data Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
 - [Declarative Language Design for Interactive Visualization](http://idl.cs.washington.edu/papers/protovis-design/) - Investigation of the design of declarative, domain-specific languages for constructing interactive visualizations. Informs decisions in Vega and Protovis.
 - [Software Design Patterns for Information Visualization](http://idl.cs.washington.edu/papers/infovis-design-patterns/) - Discussion of how to effectively design software for information visualizations.
-- [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
+- [Vega](https://vega.github.io/vega/) - an open source visualization grammar, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammar for interaction, built on top of vega
 - [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices.
 - [Draco](https://uwdata.github.io/draco/) - a formal framework for representing design knowledge about effective visualization design as a collection of constraints. Can be used to build visualization recommendation systems. 
