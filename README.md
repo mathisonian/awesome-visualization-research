@@ -53,6 +53,7 @@ At present this list is very biased towards things [@petulla](http://github.com/
 - [Modeling Color Difference for Visualization Design](http://cmci.colorado.edu/visualab/VisColors/) - An attempt to model how color is perceived depending on form and viewing conditions of the visualization
 - [Revised color-appearance model for related and unrelated colors](https://www.researchgate.net/publication/229676527_Revised_color-appearance_model_for_related_and_unrelated_colors) - Hunt's color appearance model, which was used as the basis for the Colorbrewer palettes.
 - [Somewhere Over the Rainbow: An Empirical Assessment of Quantitative Colormaps](https://idl.cs.washington.edu/papers/quantitative-color/) - Comparative analysis of different color maps and rainbow scales.
+- [When Guidelines Clash: Determining Which Color Means More](https://medium.com/multiple-views-visualization-research-explained/ieee-vis-2018-color-interaction-augmented-reality-ae999b227c7) - If a design goal is to produce colormaps that match people’s inferred mappings and are robust to changes in background color, it is beneficial to use colormaps that will not appear to vary in opacity on any background color, and to encode larger quantities in darker colors.
 
 ## Data Management
 
@@ -126,7 +127,7 @@ Uncertainty in Everyday, Mobile Predictive Systems](https://faculty.washington.e
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammer, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammar for interaction, built on top of vega
 - [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices.
-- [Draco](https://uwdata.github.io/draco/) - a formal framework for representing design knowledge about effective visualization design as a collection of constraints. Can be used to build visualization recommendation systems. 
+- [Draco](https://uwdata.github.io/draco/) - a formal framework for representing design knowledge about effective visualization design as a collection of constraints. Can be used to build visualization recommendation systems.
 
 ## Visual Forms
 - [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
