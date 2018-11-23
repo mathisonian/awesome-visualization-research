@@ -128,6 +128,7 @@ Uncertainty in Everyday, Mobile Predictive Systems](https://faculty.washington.e
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammar for interaction, built on top of vega
 - [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices.
 - [Draco](https://uwdata.github.io/draco/) - a formal framework for representing design knowledge about effective visualization design as a collection of constraints. Can be used to build visualization recommendation systems.
+- [dabestr](https://www.github.com/ACCLAB/dabestr) and [DABEST-Python](https://www.github.com/ACCLAB/DABEST-Python) - DABEST stands for **D**ata **A**nalysis with **B**ootstrap **EST**imation. It comprises open-source packages in R, Python, and [Matlab](https://www.github.com/ACCLAB/DABEST-Matlab) for the production of estimation plots, which 1) plot every datapoint to display the underlying distribution, and 2) presents the effect size as a bootstrap 95% confidence interval on a seperate but aligned axes. The Python library powers [Estimation Stats](https://www.estimationstats.com), which allows novices to produce estimation plots. 
 
 ## Visual Forms
 - [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
