@@ -123,11 +123,11 @@ Uncertainty in Everyday, Mobile Predictive Systems](https://faculty.washington.e
 - [A Layered Grammar of Graphics](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) - description of ggplot2 by Hadley Wickham.
 - [D3: Data Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
 - [Declarative Language Design for Interactive Visualization](http://idl.cs.washington.edu/papers/protovis-design/) - Investigation of the design of declarative, domain-specific languages for constructing interactive visualizations. Informs decisions in Vega and Protovis.
+- [Draco](https://uwdata.github.io/draco/) - a formal framework for representing design knowledge about effective visualization design as a collection of constraints. Can be used to build visualization recommendation systems.
 - [Software Design Patterns for Information Visualization](http://idl.cs.washington.edu/papers/infovis-design-patterns/) - Discussion of how to effectively design software for information visualizations.
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammar, enables other applications to build powerful abstractions on top of it
 - [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammar for interaction, built on top of vega
 - [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices.
-- [Draco](https://uwdata.github.io/draco/) - a formal framework for representing design knowledge about effective visualization design as a collection of constraints. Can be used to build visualization recommendation systems.
 
 ## Visual Forms
 - [Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts](https://research.tableau.com/sites/default/files/Skau-EuroVis-2016.pdf) - Robert Kosara's study on reading accuracy with pie charts.
