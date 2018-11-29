@@ -28,7 +28,7 @@ At present this list is very biased towards things [@petulla](http://github.com/
 
 ## Animation
 
-- [A Mixed-Initiative Interface for Animating Static Pictures](https://pixl.cs.princeton.edu/pubs/Willett_2018_AMI/willett_2018.pdf)
+- [A Mixed-Initiative Interface for Animating Static Pictures](https://pixl.cs.princeton.edu/pubs/Willett_2018_AMI/willett_2018.pdf) - an interactive tool to animate the visual elements of a static picture
 - [Animation: From Cartoons to the User Interface](http://www.cc.gatech.edu/classes/AY2009/cs4470_fall/readings/animation.pdf) - lessons that interface designers can learn from cartoonists
 - [Temporal Distortion for Animated Transitions](https://engineering.purdue.edu/~elm/projects/timedistort/timedistort.pdf) - a study on the impact of different easing curves in animations
 
