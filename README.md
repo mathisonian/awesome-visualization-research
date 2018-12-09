@@ -87,12 +87,14 @@ At present this list is very biased towards things [@petulla](http://github.com/
 
 - [Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings](http://idl.cs.washington.edu/files/2018-TaskDataEffectiveness-EuroVis.pdf) - An attempt to refine studies of visual encoding by including the task performed by the viewer when measuring visualization performance
 - [Attention Capacity](http://steveharoz.com/research/attention/) - The capacity of attention is limited. How does this limitation impact visualization?
+- [Beyond Memorability: Visualization Recognition and Recall](https://vcg.seas.harvard.edu/content/3-publications/20150101-beyond-memorability-visualization-recognition-and-recall/2015_beyond.pdf) - Borkin paper that builds on her memorability study (in this section below) to investigate which components of a visualization are recalled after viewing.
 - [Four types of ensemble coding in data visualizations](https://www.ncbi.nlm.nih.gov/pubmed/26982369) - An evaluation of four perceptual tasks performed by audiences of data visualization.
 - [Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf) - Classic Cleveland paper looks at the effectiveness of different graphical forms
 - [How do People Make Sense of Unfamiliar Visualizations?](https://pdfs.semanticscholar.org/9fcc/2e2314cdf713a3763c9288b1a8fff9b64873.pdf) - An attempt to model how people make sense of information visualizations -- in particular unfamiliar visualization forms.
 - [Learning Perceptual Kernels for Visualization Design](http://idl.cs.washington.edu/files/2014-PerceptualKernels-InfoVis.pdf) -  An introduction to perceptual kernels: distance matrices derived from aggregate perceptual judgments. Essentially, a way of quantifying perceptual similarity scores among different visualization encodings.
 - [Structure and strategy in encoding simplified graphs](https://pdfs.semanticscholar.org/14fa/c8a02c038ec88fa9a7139df5adc03831fe82.pdf) - a study of "cognitive reference frames" for visualization and how people remember graphs symmetrically, even when the data is asymmetric
 - [Useful Junk? The effects of visual embellishment on comprehension and memorability of charts](https://www.researchgate.net/publication/221517808_Useful_Junk_The_effects_of_visual_embellishment_on_comprehension_and_memorability_of_charts) - Charts with "embellishments" (sometimes called chart junk) perform better in memory recall weeks after viewing
+- [What Makes a Visualization Memorable?](http://cvcl.mit.edu/papers/Borkin_etal_MemorableVisualization_TVCG2013.pdf) - Borkin study of more than 2,000 visualization types that investigates the features of visualizations that aid in memorability.
 
 
 ## Research Methods
