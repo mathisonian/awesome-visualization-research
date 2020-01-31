@@ -129,7 +129,7 @@ Uncertainty in Everyday, Mobile Predictive Systems](https://faculty.washington.e
 - [Draco](https://uwdata.github.io/draco/) - a formal framework for representing design knowledge about effective visualization design as a collection of constraints. Can be used to build visualization recommendation systems.
 - [Software Design Patterns for Information Visualization](http://idl.cs.washington.edu/papers/infovis-design-patterns/) - Discussion of how to effectively design software for information visualizations.
 - [Vega](https://vega.github.io/vega/) - an open source visualization grammar, enables other applications to build powerful abstractions on top of it
-- [Vega Lite](https://vega.github.io/vega-lite/) - a high level visualization grammar for interaction, built on top of vega
+- [Vega-Lite](https://vega.github.io/vega-lite/) - a high level visualization grammar for interaction, built on top of vega
 - [Visualization Analysis and Design](https://www.crcpress.com/Visualization-Analysis-and-Design/Munzner/p/book/9781466508910) -  Munzner's systems framework for thinking about visualization in terms of principles and design choices.
 
 ## Visual Forms
